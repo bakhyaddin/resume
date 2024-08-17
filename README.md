@@ -2,16 +2,15 @@
 
 **Senior Software Engineer** | **AI Enthusiast** | **Web3 Advocate**
 
-![GitHub followers](https://img.shields.io/github/followers/bakhyaddin?style=social)
-![GitHub stars](https://img.shields.io/github/stars/bakhyaddin?style=social)
+## 📫 **Contact Me**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/bahyaddin-nuri-1b3983142)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bahyeddin@gmail.com)
 
 ---
 
 🌟 **Professional Summary**
 
-Dynamic Senior Software Engineer with a passion for driving innovation and delivering high-impact solutions. Currently leading the development of critical customer products for a company in financial distress, playing a key role in preventing their financial collapse. I manage complex customer relationships and steer engineering teams toward success. Simultaneously, I am building an AI-based platform for English learners, leveraging technologies like GraphQL, ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white), ![LangChain](https://img.shields.io/badge/LangChain-brightgreen?style=flat&logo=appveyor)
-, ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
-, ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white), and ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white). Known for combining deep technical expertise with strategic thinking to deliver results that truly matter.
+Dynamic Senior Software Engineer with a passion for driving innovation and delivering high-impact solutions. Currently leading the development of critical customer products for a company in financial distress, playing a key role in preventing their financial collapse. I manage complex customer relationships and steer engineering teams toward success. Simultaneously, I am building an AI-based platform for English learners, leveraging technologies like ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-brightgreen?style=flat&logo=appveyor) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white) and ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white). Known for combining deep technical expertise with strategic thinking to deliver results that truly matter.
 
 ---
 
@@ -120,12 +119,6 @@ Dynamic Senior Software Engineer with a passion for driving innovation and deliv
 - **API Design:**
   ![REST](https://img.shields.io/badge/-REST-4CAF50?style=flat&logo=rest&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
-
----
-
-## 📫 **Contact Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/bahyaddin-nuri-1b3983142)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bahyeddin@gmail.com)
 
 ---
 

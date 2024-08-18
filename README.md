@@ -1,6 +1,4 @@
-# Bahyeddin Nuri
-
-**Senior Software Engineer** | **AI Enthusiast** | **Web3 Advocate**
+# Bahyeddin Nuri => **Senior Software Engineer**
 
 ## 📫 **Contact Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/bahyaddin-nuri-1b3983142)
